@@ -4,21 +4,14 @@ Business card reader developed for programming challenge #1. To run the program,
 
 testCase1.txt:
 
-Foobar Technologies
-
+```Foobar Technologies
 Analytic Developer
-
 Lisa Haung
-
 1234 Sentry Road
-
 Columbia, MD 12345
-
 Phone: 1-410-555-1234
-
 Fax: 410-555-4321
-
-lisa.haung@foobartech.com
+lisa.haung@foobartech.com```
 
 Then the solution should appear in the window (You may have to expand it manually- sometimes it defaults to the smallest possible size).
 To test another input file, simply close and rerun the jar file.
