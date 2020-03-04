@@ -15,6 +15,7 @@ lisa.haung@foobartech.com
 Then the solution should appear in the window (You may have to expand it manually- sometimes it defaults to the smallest possible size).
 To test another input file, simply close and rerun the jar file.
 
+Source code is located inside /src/main/
 # Thought Process
 In this problem, I am required to parse data from a business card and identify the name, email, and phone number on the card. I assumed that these three pieces of information are to be given on separate lines. 
 
