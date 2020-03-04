@@ -1,6 +1,6 @@
 ﻿# Business Card Reader!
 
-Business card reader developed for programming challenge #1. To run the program, run the .jar file sent, and choose and open a text file which contains test case: i.e. 
+Business card reader developed for programming challenge #1. To run the program, you will need Java Runtime Environment 1.8. Run the .jar file in the file sent, and choose and open a text file which contains test case: i.e. 
 
 testCase1.txt:
 
